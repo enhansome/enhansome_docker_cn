@@ -1,7 +1,3312 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Amprobe",
+              "description": "docker管理 docker可视化监控与管理工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771961521,
+                "language": "Go",
+                "last_commit": "2026-07-23T06:39:10Z",
+                "owner": "amuluze",
+                "repo": "beacon",
+                "stars": 508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoCompose",
+              "description": "docker管理 一键转换现存docker 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48925653,
+                "language": "Python",
+                "last_commit": "2026-06-08T03:56:39Z",
+                "owner": "Red5d",
+                "repo": "docker-autocompose",
+                "stars": 2585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dagda",
+              "description": "docker管理 用于对 docker 镜像/容器中的已知漏洞、木马、病毒、恶意软件和其他恶意威胁进行静态分析的工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73858181,
+                "language": "Python",
+                "last_commit": "2023-05-23T02:03:43Z",
+                "owner": "eliasgranderubio",
+                "repo": "dagda",
+                "stars": 1248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diun",
+              "description": "docker管理 docker镜像升级提醒，支持多渠道通知 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115767098,
+                "language": "Go",
+                "last_commit": "2026-08-11T13:02:30Z",
+                "owner": "crazy-max",
+                "repo": "diun",
+                "stars": 4871
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dockge",
+              "description": "docker管理 docker-compose可视化管理 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708775091,
+                "language": "TypeScript",
+                "last_commit": "2026-04-25T02:28:26Z",
+                "owner": "louislam",
+                "repo": "dockge",
+                "stars": 24140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docu",
+              "description": "docker管理 docker存储空间使用量分析和管理工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 502868975,
+                "language": "Python",
+                "last_commit": "2025-12-26T09:13:21Z",
+                "owner": "amerkurev",
+                "repo": "doku",
+                "stars": 443
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DweebUI",
+              "description": "docker管理 内置商城的docker可视化管理页面 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 705389767,
+                "language": "HTML",
+                "last_commit": "2025-06-25T22:44:29Z",
+                "owner": "lllllllillllllillll",
+                "repo": "DweebUI",
+                "stars": 1064
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Watchtower",
+              "description": "docker管理 docker镜像自动更新服务 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 39038086,
+                "language": "Go",
+                "last_commit": "2025-12-17T14:44:11Z",
+                "owner": "containrrr",
+                "repo": "watchtower",
+                "stars": 24669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "What's up docker",
+              "description": "docker管理 docker镜像升级提醒 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197008093,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T06:05:04Z",
+                "owner": "getwud",
+                "repo": "wud",
+                "stars": 3738
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yacht",
+              "description": "docker管理 docker可视化管理 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1011466557,
+                "language": null,
+                "last_commit": "2026-07-31T16:40:27Z",
+                "owner": "SelfhostedPro",
+                "repo": "Yacht",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker copilot",
+              "description": "docker管理 绿联极空间docker管理工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620308597,
+                "language": "Go",
+                "last_commit": "2026-07-30T06:11:08Z",
+                "owner": "onlyLTY",
+                "repo": "dockerCopilot",
+                "stars": 859
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "docker管理"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cosmos-Server",
+              "description": "容器系统 一款NAS操作系统，集成应用商城、容器管理、导航栏，着重针对容器间的安全访问策略，实现一个端口访问所有容器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600475150,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T13:24:46Z",
+                "owner": "azukaar",
+                "repo": "Cosmos-Server",
+                "stars": 6128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UmbrelOS",
+              "description": "容器系统 一款全新的NAS操作系统，集成应用商城、容器管理、导航栏 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277621205,
+                "language": "TypeScript",
+                "last_commit": "2026-07-10T19:09:10Z",
+                "owner": "getumbrel",
+                "repo": "umbrel",
+                "stars": 11789
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "nas操作系统"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bind（Webmin）",
+              "description": "服务器管理 一个基于 Web 的Linux/Unix 系统管理软件 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17954072,
+                "language": "Shell",
+                "last_commit": "2024-04-01T16:16:23Z",
+                "owner": "sameersbn",
+                "repo": "docker-bind",
+                "stars": 930
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hertzbeat",
+              "description": "监控 一站式实时监控、预警、通知系统，支持网络、服务器性能、数据库、容器等 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455584258,
+                "language": "Java",
+                "last_commit": "2026-08-24T10:48:51Z",
+                "owner": "apache",
+                "repo": "hertzbeat",
+                "stars": 7374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kener",
+              "description": "监控 服务器监控 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 726128134,
+                "language": "Svelte",
+                "last_commit": "2026-08-20T14:37:59Z",
+                "owner": "rajnandan1",
+                "repo": "kener",
+                "stars": 5128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Netdata",
+              "description": "监控 经典的服务器监控仪表盘 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10744183,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:50:26Z",
+                "owner": "netdata",
+                "repo": "netdata",
+                "stars": 80275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Beszel",
+              "description": "监控 一套作用于NAS和服务器端的轻量级监控工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 825470378,
+                "language": "Go",
+                "last_commit": "2026-08-23T16:32:06Z",
+                "owner": "henrygd",
+                "repo": "beszel",
+                "stars": 24607
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Easynode",
+              "description": "运维 多功能Linux服务器WEB面板(webSSH&webSFTP) 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501076474,
+                "language": "Dart",
+                "last_commit": "2026-08-19T15:18:37Z",
+                "owner": "chaos-zhu",
+                "repo": "easynode",
+                "stars": 1997
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nging",
+              "description": "服务器管理 含ningx、caddy的Web管理面板，功能巨多 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74321451,
+                "language": "Go",
+                "last_commit": "2026-08-05T06:50:10Z",
+                "owner": "admpub",
+                "repo": "nging",
+                "stars": 1593
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "服务器管理"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fenrus",
+              "description": "导航栏 一款花里胡哨的导航系统，支持引入外部连接和导航嵌套 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 458770080,
+                "language": "JavaScript",
+                "last_commit": "2026-04-29T21:05:54Z",
+                "owner": "revenz",
+                "repo": "Fenrus",
+                "stars": 786
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mafl",
+              "description": "导航栏 一款新上线github的极简导航工具，使用yaml部署导航栏，支持主题设定，支持分组，超过200,000种免费图标，支持中文。 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735151489,
+                "language": "TypeScript",
+                "last_commit": "2026-06-07T05:14:36Z",
+                "owner": "hywax",
+                "repo": "mafl",
+                "stars": 753
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Team-Nav",
+              "description": "导航栏 一款适合团队使用的导航栏工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275557700,
+                "language": "Java",
+                "last_commit": "2025-07-11T12:57:39Z",
+                "owner": "tuituidan",
+                "repo": "team-nav",
+                "stars": 565
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mtab",
+              "description": "导航栏 类似itab的新标签页管理工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702439812,
+                "language": "PHP",
+                "last_commit": "2024-11-14T06:19:42Z",
+                "owner": "tsxcw",
+                "repo": "mtab",
+                "stars": 762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dailyhot",
+              "description": "导航栏 汇聚全网27个主流网站实时热榜 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 750758961,
+                "language": "Shell",
+                "last_commit": "2025-10-29T06:15:18Z",
+                "owner": "rehiy",
+                "repo": "dailyhot-docker",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HomePage",
+              "description": "导航栏 高度可自定义的导航栏工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528313152,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T12:14:06Z",
+                "owner": "gethomepage",
+                "repo": "homepage",
+                "stars": 32212
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "导航与书签"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2FAuth",
+              "description": "2FA 2FA管理工具 项目地址 教程地址 APP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186865095,
+                "language": "PHP",
+                "last_commit": "2026-07-12T06:12:32Z",
+                "owner": "Bubka",
+                "repo": "2FAuth",
+                "stars": 4125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cowire",
+              "description": "蜜罐 ssh蜜罐 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35494746,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:05:46Z",
+                "owner": "cowrie",
+                "repo": "cowrie",
+                "stars": 6502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fakessh",
+              "description": "蜜罐 ssh蜜罐 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73761007,
+                "language": "Go",
+                "last_commit": "2026-07-11T23:01:53Z",
+                "owner": "fffaraz",
+                "repo": "fakessh",
+                "stars": 380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MyIP",
+              "description": "网络 在线网络工具箱，支持IP查询、魔法查询等 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 722152303,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T11:59:55Z",
+                "owner": "jason5ng32",
+                "repo": "MyIP",
+                "stars": 11736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Next Terminal",
+              "description": "堡垒机 开源堡垒机系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323076240,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T08:55:48Z",
+                "owner": "next-terminal",
+                "repo": "next-terminal",
+                "stars": 5612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orion-visor",
+              "description": "堡垒机 高颜值、现代化的智能运维&轻量堡垒机平台 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656075575,
+                "language": "Java",
+                "last_commit": "2026-02-07T16:45:03Z",
+                "owner": "dromara",
+                "repo": "orion-visor",
+                "stars": 1294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Safeline",
+              "description": "waf 开源的waf工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626896474,
+                "language": "Go",
+                "last_commit": "2026-08-19T02:34:35Z",
+                "owner": "chaitin",
+                "repo": "SafeLine",
+                "stars": 22429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web-check",
+              "description": "网络 站长必备，网站分析工具，支持域名、ip完整分析 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658364446,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T09:01:27Z",
+                "owner": "lissy93",
+                "repo": "web-check",
+                "stars": 34583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SamWaf",
+              "description": "waf 轻量级的waf防火墙 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737285725,
+                "language": "Go",
+                "last_commit": "2026-08-24T06:25:39Z",
+                "owner": "samwafgo",
+                "repo": "SamWaf",
+                "stars": 1545
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "安全"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Claper",
+              "description": "办公 PPT演讲过程中的问卷调查、在线聊天、信息收集工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 516911986,
+                "language": "Elixir",
+                "last_commit": "2026-08-20T12:05:21Z",
+                "owner": "ClaperCo",
+                "repo": "Claper",
+                "stars": 785
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ILLA",
+              "description": "协作 一个强大的开源低代码平台，供开发人员构建内部工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 482719022,
+                "language": "TypeScript",
+                "last_commit": "2026-05-27T02:22:32Z",
+                "owner": "illacloud",
+                "repo": "illa-builder",
+                "stars": 12310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InvenTree",
+              "description": "ERP 开源的库存管理系统，提供直观的零件管理和库存控制 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85894461,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:40:27Z",
+                "owner": "inventree",
+                "repo": "InvenTree",
+                "stars": 7442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iToP",
+              "description": "IT 基于ITIL的IT服务管理工具，包括一个完全可定制的CMDB，一个帮助台系统和一个文档管理工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145827013,
+                "language": "PHP",
+                "last_commit": "2026-08-24T12:25:56Z",
+                "owner": "Combodo",
+                "repo": "iTop",
+                "stars": 1168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kimai",
+              "description": "办公 个人时间管理工具，管理打工人自己在不同项目、不同工种上的时间分配 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71485542,
+                "language": "PHP",
+                "last_commit": "2026-08-24T12:33:41Z",
+                "owner": "kimai",
+                "repo": "kimai",
+                "stars": 4937
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "O2oa",
+              "description": "OA 国内很好用的的一款OA系统，通过插件可以实现如车辆管理、财务管理等其它系统功能 项目地址 教程地址 pro收费",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81904468,
+                "language": "JavaScript",
+                "last_commit": "2026-04-24T09:52:35Z",
+                "owner": "o2oa",
+                "repo": "o2oa",
+                "stars": 4658
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Our-shopping-list",
+              "description": "TODO 针对家庭、采购物资适配的todo工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 363989760,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T16:41:42Z",
+                "owner": "nanawel",
+                "repo": "our-shopping-list",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Planka",
+              "description": "TODO 高颜值项目管理、团队协作、任务跟踪的todo工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205453332,
+                "language": "JavaScript",
+                "last_commit": "2026-08-10T16:30:05Z",
+                "owner": "plankanban",
+                "repo": "planka",
+                "stars": 12449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Screego",
+              "description": "协作 基于 WebRTC 进行安全传输的屏幕共享 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280232135,
+                "language": "Go",
+                "last_commit": "2026-08-20T18:37:47Z",
+                "owner": "screego",
+                "repo": "server",
+                "stars": 10503
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Snipe-it",
+              "description": "IT IT设备、设施管理系统 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14346979,
+                "language": "PHP",
+                "last_commit": "2026-08-24T13:26:44Z",
+                "owner": "grokability",
+                "repo": "snipe-it",
+                "stars": 14867
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Superset",
+              "description": "BI 免费的BI系统、数据驾驶舱系统 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39464018,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:34:05Z",
+                "owner": "apache",
+                "repo": "superset",
+                "stars": 74445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Twenty",
+              "description": "CRM 高颜值跨平台的开源CRM项目，核心还在财务和客户管理 项目地址 教程地址 客户端",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 572984571,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:58:47Z",
+                "owner": "twentyhq",
+                "repo": "twenty",
+                "stars": 55446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Univer",
+              "description": "Office 支持在线excel、文档、ppt协作，google文档开源替代项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543101941,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T11:00:07Z",
+                "owner": "dream-num",
+                "repo": "univer",
+                "stars": 14179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vikunja",
+              "description": "TODO 支持项目管理、团队管理、任务管理的todo应用，worklite开源替代项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159556794,
+                "language": "Go",
+                "last_commit": "2026-08-24T08:31:30Z",
+                "owner": "go-vikunja",
+                "repo": "vikunja",
+                "stars": 5149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wbo",
+              "description": "TODO 简易的在线白板绘图 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12412901,
+                "language": "JavaScript",
+                "last_commit": "2026-08-05T19:38:34Z",
+                "owner": "lovasoa",
+                "repo": "whitebophir",
+                "stars": 2635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WorkAdventure",
+              "description": "办公 是一个基于 Web 的协作工作区，以 16 位视频游戏的形式呈现 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252724819,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:58:15Z",
+                "owner": "workadventure",
+                "repo": "workadventure",
+                "stars": 5725
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xiaojusurvey",
+              "description": "问卷 针对调查问卷开发的在线问卷系统 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713210442,
+                "language": "TypeScript",
+                "last_commit": "2026-07-20T04:23:09Z",
+                "owner": "didi",
+                "repo": "xiaoju-survey",
+                "stars": 3784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "卷王",
+              "description": "问卷 开源问卷&在线考试 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 735845070,
+                "language": "PLpgSQL",
+                "last_commit": "2024-07-06T10:16:07Z",
+                "owner": "xianyu-one",
+                "repo": "surveyking-docker",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leantime",
+              "description": "项目管理 面向非项目经理的开源项目管理工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29745084,
+                "language": "PHP",
+                "last_commit": "2026-08-15T04:20:40Z",
+                "owner": "Leantime",
+                "repo": "leantime",
+                "stars": 11430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tududi",
+              "description": "项目管理 一个极简的开源任务和项目管理工具 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 718052902,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T14:43:56Z",
+                "owner": "chrisvel",
+                "repo": "tududi",
+                "stars": 3286
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "办公协作"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DailyTxT",
+              "description": "个人管理 一款加密的个人日记工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320560174,
+                "language": "Svelte",
+                "last_commit": "2026-08-20T15:48:15Z",
+                "owner": "PhiTux",
+                "repo": "DailyTxT",
+                "stars": 496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Actual",
+              "description": "财务应用 以预算管理为核心的一款个人财务管理系统 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 486815039,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T22:46:25Z",
+                "owner": "actualbudget",
+                "repo": "actual",
+                "stars": 28350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Babybuddy",
+              "description": "家庭管理 婴幼儿吃喝拉撒记录、管理工具，支持和HA联动 项目地址 教程地址 APP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107898477,
+                "language": "Python",
+                "last_commit": "2026-08-11T02:53:13Z",
+                "owner": "babybuddy",
+                "repo": "babybuddy",
+                "stars": 2863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grocy",
+              "description": "家庭管理 一款专注于家庭、厨卫、物资的家用ERP系统 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163298267,
+                "language": "Dockerfile",
+                "last_commit": "2026-08-23T08:09:12Z",
+                "owner": "linuxserver",
+                "repo": "docker-grocy",
+                "stars": 442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Habitica",
+              "description": "个人管理 将习惯养成变为一种mmoprg游戏，支持职业、武器、宠物、副本等 项目地址 教程地址 APP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4578898,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T18:55:54Z",
+                "owner": "HabitRPG",
+                "repo": "habitica",
+                "stars": 14086
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hammond",
+              "description": "个人管理 家庭汽车相关费用支出管理 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371936025,
+                "language": "Go",
+                "last_commit": "2023-01-30T21:08:58Z",
+                "owner": "akhilrex",
+                "repo": "hammond",
+                "stars": 595
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Homebox",
+              "description": "家庭管理 家庭用户搭建的库存与物资管理系统。专注于简单性和易用性，是满足您家庭库存、组织和管理需求的完美解决方案 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 530469130,
+                "language": "Go",
+                "last_commit": "2024-06-11T13:58:05Z",
+                "owner": "hay-kot",
+                "repo": "homebox",
+                "stars": 3015
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Howtocook",
+              "description": "个人管理 程序员烧饭手册大全 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243950408,
+                "language": null,
+                "last_commit": "2026-08-20T07:14:07Z",
+                "owner": "Anduin2017",
+                "repo": "HowToCook",
+                "stars": 101948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kerberos-agent",
+              "description": "监控 开源的监控设备统一管理系统，支持H264/H265的nvif/rtsp协议 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287031432,
+                "language": "Go",
+                "last_commit": "2026-08-22T20:28:02Z",
+                "owner": "kerberos-io",
+                "repo": "agent",
+                "stars": 1101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Manage-my-damn-life",
+              "description": "个人管理 个人管理软件psm，用于管理您的 CalDAV 任务和日历 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626535955,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T05:09:18Z",
+                "owner": "intri-in",
+                "repo": "manage-my-damn-life-nextjs",
+                "stars": 623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Manyfold",
+              "description": "兴趣爱好 用于管理3D打印机资料的开源项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 336387108,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T11:07:58Z",
+                "owner": "manyfold3d",
+                "repo": "manyfold",
+                "stars": 2139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Monica",
+              "description": "家庭管理 一款个人关系管理系统，可让记录自己的人际关系、生活经验 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82238168,
+                "language": "PHP",
+                "last_commit": "2026-04-24T19:52:26Z",
+                "owner": "monicahq",
+                "repo": "monica",
+                "stars": 25098
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SheetAble",
+              "description": "兴趣爱好 一款易于使用的乐谱整理器和乐谱软件 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373495382,
+                "language": "JavaScript",
+                "last_commit": "2025-02-08T23:13:34Z",
+                "owner": "SheetAble",
+                "repo": "SheetAble",
+                "stars": 459
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Traggo",
+              "description": "个人管理 以时间轴为核心的时间分配、管理工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215106211,
+                "language": "Makefile",
+                "last_commit": "2026-06-07T18:01:51Z",
+                "owner": "traggo",
+                "repo": "website",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wallos",
+              "description": "财务应用 针对周期财务、账单进行管理的财务管理系统，支持如自动续费、代扣、过期管理、纪念日等 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701017456,
+                "language": "PHP",
+                "last_commit": "2026-08-23T18:41:48Z",
+                "owner": "ellite",
+                "repo": "Wallos",
+                "stars": 8394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gramps-web",
+              "description": "家庭管理 一款专业的自托管族谱项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315729209,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T12:57:56Z",
+                "owner": "gramps-project",
+                "repo": "gramps-web",
+                "stars": 1631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Babel-duck",
+              "description": "兴趣爱好 一款基于AI的英语口语训练工具 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 859332112,
+                "language": "TypeScript",
+                "last_commit": "2026-04-07T09:10:45Z",
+                "owner": "Orenoid",
+                "repo": "BabelDuck",
+                "stars": 692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cashbook",
+              "description": "财务应用 支持支付宝、微信、京东金融导入的个人记账工具 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639222377,
+                "language": "TypeScript",
+                "last_commit": "2026-06-18T05:48:55Z",
+                "owner": "dingdangdog",
+                "repo": "cashbook",
+                "stars": 380
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "个人爱好与家庭管理"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Audiobookshelf",
+              "description": "播客 一款管理播客和有声书的自托管系统 项目地址 教程地址 APP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397401267,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T22:13:48Z",
+                "owner": "advplyr",
+                "repo": "audiobookshelf",
+                "stars": 14092
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChineseSubFinder",
+              "description": "字幕 中文字幕下载工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372232781,
+                "language": "Go",
+                "last_commit": "2025-01-16T02:13:34Z",
+                "owner": "ChineseSubFinder",
+                "repo": "ChineseSubFinder",
+                "stars": 3931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Feishin",
+              "description": "音乐 一款高颜值的音乐播放器前端 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 517572452,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T20:52:08Z",
+                "owner": "jeffvli",
+                "repo": "feishin",
+                "stars": 9622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Namer",
+              "description": "刮削 欧美小姐姐作品重命名工具，方便刮削 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473862243,
+                "language": "Python",
+                "last_commit": "2026-08-07T21:06:49Z",
+                "owner": "ThePornDatabase",
+                "repo": "namer",
+                "stars": 325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Melody",
+              "description": "音乐 基于网易云云盘的音乐下载工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35573029,
+                "language": "Go",
+                "last_commit": "2025-10-28T18:41:28Z",
+                "owner": "olahol",
+                "repo": "melody",
+                "stars": 4082
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Musicn",
+              "description": "音乐 mp3音乐下载工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399739023,
+                "language": "TypeScript",
+                "last_commit": "2024-03-15T12:58:05Z",
+                "owner": "zonemeen",
+                "repo": "musicn",
+                "stars": 1767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Onelist",
+              "description": "影视 用于alist挂载后的影视刮削工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607116693,
+                "language": "Go",
+                "last_commit": "2024-01-12T09:49:22Z",
+                "owner": "msterzhang",
+                "repo": "onelist",
+                "stars": 1531
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R3PLAY",
+              "description": "音乐 网易云第三方播放器，docker部署版 项目地址 教程地址 客户端",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302603001,
+                "language": "Vue",
+                "last_commit": "2026-06-14T12:57:40Z",
+                "owner": "qier222",
+                "repo": "YesPlayMusic",
+                "stars": 33191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Teemii",
+              "description": "漫画 在线漫画下载与管理 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 733992595,
+                "language": "JavaScript",
+                "last_commit": "2024-03-08T20:41:41Z",
+                "owner": "dokkaner",
+                "repo": "teemii",
+                "stars": 556
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xiaomusic",
+              "description": "音乐 小米/红米/小爱音箱第三方口令与音乐下载、播放工具 项目地址 教程地址 基于小米音箱",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 704881002,
+                "language": "Python",
+                "last_commit": "2026-06-09T05:24:33Z",
+                "owner": "hanxi",
+                "repo": "xiaomusic",
+                "stars": 10049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Navidrome",
+              "description": "音乐 NAS上最好的音乐管理服务器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52481933,
+                "language": "Go",
+                "last_commit": "2026-08-24T10:17:44Z",
+                "owner": "navidrome",
+                "repo": "navidrome",
+                "stars": 23086
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Music-Tag-Web",
+              "description": "音乐 最好用的音乐元数据刮削工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612519947,
+                "language": "Python",
+                "last_commit": "2026-07-26T07:41:24Z",
+                "owner": "xhongc",
+                "repo": "music-tag-web",
+                "stars": 5971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emby-Keeper",
+              "description": "影视 emby公益服保号、注册等 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 604115244,
+                "language": "Python",
+                "last_commit": "2026-07-04T16:35:30Z",
+                "owner": "emby-keeper",
+                "repo": "emby-keeper",
+                "stars": 1296
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Guovin_TV",
+              "description": "IPTV IPTV电视直播源更新项目，从Guovin_TV升级而来 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 752615721,
+                "language": "Python",
+                "last_commit": "2026-08-21T01:03:29Z",
+                "owner": "Guovin",
+                "repo": "iptv-api",
+                "stars": 24974
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NextBeats",
+              "description": "音乐 一款基于油管的lofi音乐流播放器 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 889722242,
+                "language": "TypeScript",
+                "last_commit": "2025-12-15T07:23:18Z",
+                "owner": "btahir",
+                "repo": "next-beats",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Iptvnator",
+              "description": "IPTV 具有多种功能的跨平台 IPTV 播放器应用程序 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213194738,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T08:31:12Z",
+                "owner": "4gray",
+                "repo": "iptvnator",
+                "stars": 6896
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auto_symklink",
+              "description": "影音 一款创建与更新软链接/strm文件的工具，也可用于解决绿联家庭相册 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 724911511,
+                "language": null,
+                "last_commit": "2025-11-24T13:35:06Z",
+                "owner": "shenxianmq",
+                "repo": "Auto_Symlink",
+                "stars": 1099
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Komga",
+              "description": "漫画 漫画、漫画、BD、杂志和电子书的媒体服务器 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201228816,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T07:40:49Z",
+                "owner": "gotson",
+                "repo": "komga",
+                "stars": 6598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BangumiKomga",
+              "description": "漫画 基于Komga的漫画番剧刮削工具 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591990762,
+                "language": "Python",
+                "last_commit": "2026-07-27T12:59:29Z",
+                "owner": "chu-shen",
+                "repo": "BangumiKomga",
+                "stars": 313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LANraragi",
+              "description": "漫画 同人志阅读工具，拥有多种同人志插件 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22470303,
+                "language": "Perl",
+                "last_commit": "2026-08-10T11:15:01Z",
+                "owner": "Difegue",
+                "repo": "LANraragi",
+                "stars": 3085
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kavita",
+              "description": "电子书 一个快速、功能丰富的跨平台阅读服务器 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 320936145,
+                "language": "C#",
+                "last_commit": "2026-08-23T08:34:15Z",
+                "owner": "Kareadita",
+                "repo": "Kavita",
+                "stars": 11543
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calibre-Web",
+              "description": "电子书 用于浏览、阅读和下载存储在Calibre中的Web应用 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40089578,
+                "language": "Fluent",
+                "last_commit": "2026-08-23T15:13:35Z",
+                "owner": "janeczku",
+                "repo": "calibre-web",
+                "stars": 18046
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "影音相关"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Metube",
+              "description": "下载 一款基于ytb-dlp的可视化下载工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224896494,
+                "language": "Python",
+                "last_commit": "2026-08-21T12:31:09Z",
+                "owner": "alexta69",
+                "repo": "metube",
+                "stars": 14505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Qbittorrent",
+              "description": "下载 最强的BT/PT下载工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3351871,
+                "language": "C++",
+                "last_commit": "2026-08-24T11:11:44Z",
+                "owner": "qbittorrent",
+                "repo": "qBittorrent",
+                "stars": 39675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transmission",
+              "description": "下载 轻量化的PT/BT下载工具，善于保种 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35129809,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:16:35Z",
+                "owner": "transmission",
+                "repo": "transmission",
+                "stars": 15133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JmalCloud",
+              "description": "网盘 私有云存储网盘项目，支持本地存储和OSS对象存储，兼容在线office编辑和文件浏览 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239269042,
+                "language": "Java",
+                "last_commit": "2026-08-08T06:06:36Z",
+                "owner": "jamebal",
+                "repo": "jmal-cloud-server",
+                "stars": 408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zfile",
+              "description": "网盘 支持17种远程存储的网盘汇聚项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203183673,
+                "language": "Java",
+                "last_commit": "2026-08-13T12:29:29Z",
+                "owner": "zfile-dev",
+                "repo": "zfile",
+                "stars": 10825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zpan",
+              "description": "网盘 基于S3、云存储的网盘项目 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211444856,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T01:06:48Z",
+                "owner": "saltbo",
+                "repo": "zpan",
+                "stars": 2057
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "下载与网盘"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fiora",
+              "description": "聊天 自建开源社交即时聊天工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51762221,
+                "language": "TypeScript",
+                "last_commit": "2024-02-27T23:21:15Z",
+                "owner": "yinxin630",
+                "repo": "fiora",
+                "stars": 7170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flarum",
+              "description": "论坛 一款高颜值、轻量化的论坛 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63477285,
+                "language": "Shell",
+                "last_commit": "2024-03-12T14:24:26Z",
+                "owner": "mondediefr",
+                "repo": "docker-flarum",
+                "stars": 552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Misskey",
+              "description": "社区 一款基于星级网络的自托管社区 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77326607,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T11:55:01Z",
+                "owner": "misskey-dev",
+                "repo": "misskey",
+                "stars": 11303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TailChat",
+              "description": "聊天 类似discord的开源自建聊天服务器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377687390,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T16:33:38Z",
+                "owner": "msgbyte",
+                "repo": "tailchat",
+                "stars": 3614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zammad",
+              "description": "客服 基于Web的开源服务台与客户支持系统 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3898922,
+                "language": "Ruby",
+                "last_commit": "2026-08-24T13:30:59Z",
+                "owner": "zammad",
+                "repo": "zammad",
+                "stars": 5863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "春松客服",
+              "description": "客服 在线客服管理系统，支持多平台外挂式接入，支持坐席管理 项目地址 教程地址 pro收费",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146856200,
+                "language": "JavaScript",
+                "last_commit": "2026-05-11T07:46:42Z",
+                "owner": "cskefu",
+                "repo": "cskefu",
+                "stars": 2894
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "唐僧叨叨",
+              "description": "聊天 一款支持web、windows、macos、linux、IOS、安卓的全平台开源聊天项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 665488952,
+                "language": "Go",
+                "last_commit": "2026-07-22T02:37:09Z",
+                "owner": "TangSengDaoDao",
+                "repo": "TangSengDaoDaoServer",
+                "stars": 3571
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "社交工具"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChatALL",
+              "description": "AI集成 同时与ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言等聊天的集成客户端。 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625187946,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T06:08:23Z",
+                "owner": "ai-shifu",
+                "repo": "ChatALL",
+                "stars": 16480
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chatgpt-Next-Web",
+              "description": "AI集成 AI集成对话面板 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612344730,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T02:07:25Z",
+                "owner": "ChatGPTNextWeb",
+                "repo": "NextChat",
+                "stars": 88648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Darktable",
+              "description": "绘图 专门面向摄影师服务的开源数字摄影后期处理软件，平替Lightroom 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3791835,
+                "language": "C",
+                "last_commit": "2026-08-24T07:19:30Z",
+                "owner": "darktable-org",
+                "repo": "darktable",
+                "stars": 12982
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DragGAN",
+              "description": "AI应用 基于点的浏览器在线P图，只需要控制点的位置，即可自动进行P图，实现交互式编辑 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642323624,
+                "language": "Python",
+                "last_commit": "2024-05-18T17:51:40Z",
+                "owner": "XingangPan",
+                "repo": "DragGAN",
+                "stars": 35758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Free-Cad",
+              "description": "生产力 免费开源的3D建模工具 项目地址 教程地址 客户端",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5736080,
+                "language": "C++",
+                "last_commit": "2026-08-24T07:22:10Z",
+                "owner": "FreeCAD",
+                "repo": "FreeCAD",
+                "stars": 33047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image-matting",
+              "description": "AI应用 一键在线扣除图片背景 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739021368,
+                "language": "Python",
+                "last_commit": "2026-01-26T09:18:56Z",
+                "owner": "ihmily",
+                "repo": "image-matting",
+                "stars": 399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jan",
+              "description": "AI 一款100%在本地运行的多平台的OpenAI模型，支持MacOS、Windows、Linux客户端，支持Docker环境部署。 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 679506386,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:08:18Z",
+                "owner": "janhq",
+                "repo": "jan",
+                "stars": 44129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Koishi",
+              "description": "机器人 一个跨平台、可扩展、高性能的机器人框架 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225572038,
+                "language": "TypeScript",
+                "last_commit": "2026-03-08T16:36:46Z",
+                "owner": "koishijs",
+                "repo": "koishi",
+                "stars": 6109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LocalAI",
+              "description": "AI 完全离线运行的本地AI大模型系统，支持抱脸虫上的各类库，支持api输出 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615869301,
+                "language": "Go",
+                "last_commit": "2026-08-24T13:18:40Z",
+                "owner": "mudler",
+                "repo": "LocalAI",
+                "stars": 48653
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Penpot",
+              "description": "生产力 好用好看的原型设计软件，Kaleidos的平替项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48769241,
+                "language": "Clojure",
+                "last_commit": "2026-08-24T13:57:01Z",
+                "owner": "penpot",
+                "repo": "penpot",
+                "stars": 59113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QChatGPT",
+              "description": "机器人 支持AI接入的QQ/QQ频道/OneBot 机器人平台 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575321313,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:54:23Z",
+                "owner": "langbot-app",
+                "repo": "LangBot",
+                "stars": 17536
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Windows-docker",
+              "description": "生产力 在docker容器中运行windows系统 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743140652,
+                "language": "Shell",
+                "last_commit": "2026-08-24T13:29:08Z",
+                "owner": "dockur",
+                "repo": "windows",
+                "stars": 52993
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MinIO",
+              "description": "生产力 一款兼容S3的自托管对象存储 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 29261473,
+                "language": "Go",
+                "last_commit": "2026-04-24T17:54:39Z",
+                "owner": "minio",
+                "repo": "minio",
+                "stars": 61382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rustpad",
+              "description": "生产力 一款开源协作文本编辑器，支持在浏览器中编写代码时进行实时协作 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372695773,
+                "language": "Rust",
+                "last_commit": "2025-02-02T01:44:29Z",
+                "owner": "ekzhang",
+                "repo": "rustpad",
+                "stars": 4072
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open-webui",
+              "description": "AI应用 友好易用的AI web管理页面 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701547123,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:36:44Z",
+                "owner": "open-webui",
+                "repo": "open-webui",
+                "stars": 149761
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chatgpt-on-Wechat",
+              "description": "AI应用 基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 522158088,
+                "language": "Python",
+                "last_commit": "2026-08-23T09:56:41Z",
+                "owner": "zhayujie",
+                "repo": "CowAgent",
+                "stars": 46650
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dify",
+              "description": "AI应用 Dify 是一个开源LLM的应用程序开发平台 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626805178,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:20:15Z",
+                "owner": "langgenius",
+                "repo": "dify",
+                "stars": 153361
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "生产力与ai"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Affine",
+              "description": "个人笔记 无界白板+超强文档管理，Notion的开源替代 项目地址 教程地址 客户端",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519859998,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T09:51:53Z",
+                "owner": "toeverything",
+                "repo": "AFFiNE",
+                "stars": 71845
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Benotes",
+              "description": "个人笔记 一个开源的自托管笔记和书签网络应用程序 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218544688,
+                "language": "PHP",
+                "last_commit": "2025-04-10T18:35:21Z",
+                "owner": "fr0tt",
+                "repo": "benotes",
+                "stars": 857
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bookstack",
+              "description": "团队文档 团队，个人知识库、wiki管理系统，支持项目、书籍、书页等多个层级管理 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65643342,
+                "language": "Shell",
+                "last_commit": "2026-08-24T12:58:55Z",
+                "owner": "solidnerd",
+                "repo": "docker-bookstack",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Huntly",
+              "description": "个人笔记 RSS集大成者，包含RSS、稍后阅读、收藏功能，支持github、推特文章优化 项目地址 教程地址 浏览器扩展",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609888798,
+                "language": "TypeScript",
+                "last_commit": "2026-05-30T09:21:49Z",
+                "owner": "lcomplete",
+                "repo": "huntly",
+                "stars": 2343
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Libretranslate",
+              "description": "翻译 一款本地化部署的翻译软件及API 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322921248,
+                "language": "Python",
+                "last_commit": "2026-08-23T22:47:34Z",
+                "owner": "LibreTranslate",
+                "repo": "LibreTranslate",
+                "stars": 16117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memonts",
+              "description": "个人笔记 自托管的“朋友圈”风格博客 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779220222,
+                "language": "Go",
+                "last_commit": "2026-03-30T16:13:52Z",
+                "owner": "kingwrcy",
+                "repo": "moments",
+                "stars": 1901
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memos",
+              "description": "个人笔记 碎片化知识闪记、笔记 项目地址 教程地址 app/小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436297812,
+                "language": "Go",
+                "last_commit": "2026-08-23T11:37:37Z",
+                "owner": "usememos",
+                "repo": "memos",
+                "stars": 62499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Perlite",
+              "description": "团队文档 Obsidian Publish开源代替项目，支持在线阅读md文件，支持分权限共享 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371990032,
+                "language": "CSS",
+                "last_commit": "2026-01-21T23:35:21Z",
+                "owner": "secure-77",
+                "repo": "Perlite",
+                "stars": 1975
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reference",
+              "description": "个人笔记 稳定更新的快速开发备忘录，包含数据库、前端、后端、api、各类工具命令等170个工具、软件， 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 540917299,
+                "language": "Dockerfile",
+                "last_commit": "2026-08-11T17:55:52Z",
+                "owner": "jaywcjlove",
+                "repo": "reference",
+                "stars": 15198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Showdoc",
+              "description": "团队文档 专门针对IT场景开发的个人知识库、团队文档管理工具，支持通过api生成文档，支持api文档、数据字典等 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46964895,
+                "language": "PHP",
+                "last_commit": "2026-08-24T05:58:44Z",
+                "owner": "star7th",
+                "repo": "showdoc",
+                "stars": 12845
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wallabag",
+              "description": "个人笔记 是一个自我托管的应用程序，用于保存网页：保存和分类文章，稍后阅读 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9193949,
+                "language": "PHP",
+                "last_commit": "2026-08-24T05:35:25Z",
+                "owner": "wallabag",
+                "repo": "wallabag",
+                "stars": 12929
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wiznote",
+              "description": "个人笔记 为知笔记的自托管版本 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277713319,
+                "language": "C",
+                "last_commit": "2023-01-06T21:01:41Z",
+                "owner": "WizTeam",
+                "repo": "WizNoteLite",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blinko",
+              "description": "个人笔记 以AI为驱动核心的个人笔记工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 877230294,
+                "language": "TypeScript",
+                "last_commit": "2026-08-03T14:17:57Z",
+                "owner": "blinkospace",
+                "repo": "blinko",
+                "stars": 10946
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Freshrss",
+              "description": "RSS 一个免费的，可自托管的新闻聚合器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6322699,
+                "language": "PHP",
+                "last_commit": "2026-08-21T20:49:52Z",
+                "owner": "FreshRSS",
+                "repo": "FreshRSS",
+                "stars": 15822
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wiki.js",
+              "description": "RSS 基于js的高颜值wiki项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65848095,
+                "language": "Vue",
+                "last_commit": "2026-08-24T08:31:20Z",
+                "owner": "requarks",
+                "repo": "wiki",
+                "stars": 28789
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "小书匠",
+              "description": "个人笔记 支持选择性同步的全平台覆盖知识管理笔记软件 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16162295,
+                "language": null,
+                "last_commit": "2025-02-03T06:02:12Z",
+                "owner": "suziwen",
+                "repo": "markdownxiaoshujiang",
+                "stars": 1732
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "知识库管理"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Filebrowser",
+              "description": "文件管理 经典的文件管理工具，没有多余的功能模块，就是简简单单的管理文件、文件夹 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42332863,
+                "language": "Go",
+                "last_commit": "2026-07-31T10:06:58Z",
+                "owner": "filebrowser",
+                "repo": "filebrowser",
+                "stars": 35925
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Filecodebox",
+              "description": "共享 一款以匿名口令分享文本、文件的工具，旨在让共享成为像拿快递一样方便。 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576247474,
+                "language": "Python",
+                "last_commit": "2026-07-24T08:34:30Z",
+                "owner": "vastsa",
+                "repo": "FileCodeBox",
+                "stars": 8481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FreeFileSync",
+              "description": "同步 一款文件夹比较和同步软件，可创建和管理所有重要文件的备份副本 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612808099,
+                "language": "Shell",
+                "last_commit": "2026-08-17T11:31:43Z",
+                "owner": "jlesage",
+                "repo": "docker-freefilesync",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MicroBin",
+              "description": "共享 稍后阅读，可设置次数、时间的资料共享 Web 应用程序 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480154226,
+                "language": "Rust",
+                "last_commit": "2026-06-13T13:45:49Z",
+                "owner": "szabodanika",
+                "repo": "microbin",
+                "stars": 4528
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Verysync",
+              "description": "同步 微力同步，全平台的文件同步工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271320374,
+                "language": "Dockerfile",
+                "last_commit": "2025-10-09T06:38:56Z",
+                "owner": "Jonnyan404",
+                "repo": "verysync",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spacedrive",
+              "description": "文件管理 跨平台文件管理系统 项目地址 教程地址 APP/客户端",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 410749029,
+                "language": "Rust",
+                "last_commit": "2026-07-29T00:31:28Z",
+                "owner": "spacedriveapp",
+                "repo": "spacedrive",
+                "stars": 38838
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Taosync",
+              "description": "同步 一款基于alist的自动同步工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 828841939,
+                "language": "Python",
+                "last_commit": "2026-07-28T03:27:48Z",
+                "owner": "dr34m-cn",
+                "repo": "taosync",
+                "stars": 1540
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QuickDrop",
+              "description": "文件共享 一款易于使用的文件共享应用程序，允许用户在没有帐户的情况下共享 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 868217594,
+                "language": "Java",
+                "last_commit": "2026-08-20T09:12:33Z",
+                "owner": "RoastSlav",
+                "repo": "quickdrop",
+                "stars": 426
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Video-duplicate-finder",
+              "description": "文件去重 video-duplicat的docker部署版本 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 593692244,
+                "language": "Shell",
+                "last_commit": "2026-08-17T11:32:51Z",
+                "owner": "jlesage",
+                "repo": "docker-video-duplicate-finder",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "文件管理"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Czkawka",
+              "description": "相册管理 一款多平台的相册去重工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292065578,
+                "language": "Fluent",
+                "last_commit": "2026-07-29T16:35:30Z",
+                "owner": "qarmin",
+                "repo": "czkawka",
+                "stars": 32870
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ente",
+              "description": "相册管理 端对端加密的相册管理、2FA管理工具，google 相册开源替代 项目地址 教程地址 APP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560284721,
+                "language": "Dart",
+                "last_commit": "2026-08-24T13:32:11Z",
+                "owner": "ente",
+                "repo": "ente",
+                "stars": 28478
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Icloudpd",
+              "description": "相册管理 从 iCloud 下载照片的命令行工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206102714,
+                "language": "Shell",
+                "last_commit": "2026-05-30T21:13:25Z",
+                "owner": "boredazfcuk",
+                "repo": "docker-icloudpd",
+                "stars": 2930
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Immich",
+              "description": "相册管理 开源家庭相册管理，支持clip 项目地址 教程地址 APP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455229168,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:58:29Z",
+                "owner": "immich-app",
+                "repo": "immich",
+                "stars": 112543
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kamera",
+              "description": "相册管理 专供摄影佬使用的记录网站，采用瀑布流图片展示方式 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 711828429,
+                "language": "Vue",
+                "last_commit": "2024-04-30T13:12:42Z",
+                "owner": "besscroft",
+                "repo": "kamera",
+                "stars": 383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lomorage",
+              "description": "相册管理 全平台自托管照片管理软件，重点在照片上传 项目地址 教程地址 APP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252609563,
+                "language": "Shell",
+                "last_commit": "2023-09-21T13:42:02Z",
+                "owner": "lomorage",
+                "repo": "lomo-docker",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Photostruct",
+              "description": "相册管理 家庭照片管理工具，专门针对文件夹浏览进行开发 项目地址 教程地址 pro收费/客户端",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204232546,
+                "language": "EJS",
+                "last_commit": "2026-04-28T07:31:58Z",
+                "owner": "photostructure",
+                "repo": "photostructure-for-servers",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Photoview",
+              "description": "相册管理 为摄影佬开发的瀑布流相册管理工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195657294,
+                "language": "Go",
+                "last_commit": "2026-08-20T09:32:51Z",
+                "owner": "photoview",
+                "repo": "photoview",
+                "stars": 6512
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "相册与图库"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bark",
+              "description": "消息通知 苹果专用的消息推送服务 项目地址 教程地址 APP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124205615,
+                "language": "Swift",
+                "last_commit": "2026-08-18T02:21:13Z",
+                "owner": "Finb",
+                "repo": "Bark",
+                "stars": 8942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gotify",
+              "description": "消息通知 安卓专用的消息推送服务 项目地址 教程地址 APP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163956555,
+                "language": "TypeScript",
+                "last_commit": "2026-07-26T10:18:16Z",
+                "owner": "gotify",
+                "repo": "website",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Heimdallr",
+              "description": "消息通知 支持根据不同消息来源，不同消息目的进行消息推送的聚合消息推送平台，支持10+消息推送方式 项目地址 教程地址 无头服务器部署",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 497120657,
+                "language": "Python",
+                "last_commit": "2026-08-22T16:35:36Z",
+                "owner": "LeslieLeung",
+                "repo": "heimdallr",
+                "stars": 813
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "消息通知"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DNF",
+              "description": "游戏 一款老版本的DNF私服 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308264602,
+                "language": "Shell",
+                "last_commit": "2026-07-11T07:22:05Z",
+                "owner": "1995chen",
+                "repo": "dnf",
+                "stars": 2193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker-Minecraft-Server",
+              "description": "游戏 专门运行在docker里的minecraft（Java 版）社区服务器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19897878,
+                "language": "Shell",
+                "last_commit": "2026-08-23T14:04:09Z",
+                "owner": "itzg",
+                "repo": "docker-minecraft-server",
+                "stars": 14194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Karaoke-eternal",
+              "description": "游戏 一款以KTV氛围设计的卡拉ok软件 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58885535,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T02:49:52Z",
+                "owner": "bhj",
+                "repo": "KaraokeEternal",
+                "stars": 892
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Palworld",
+              "description": "娱乐 幻兽帕鲁的服务器搭建docker 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 745391029,
+                "language": "Shell",
+                "last_commit": "2026-08-01T14:56:08Z",
+                "owner": "jammsen",
+                "repo": "docker-palworld-dedicated-server",
+                "stars": 1005
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pokerogue",
+              "description": "游戏 PokéRogue 是一款基于浏览器的神奇宝贝同人游戏，深受 Roguelite 类型的启发。 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620476224,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T01:41:53Z",
+                "owner": "pagefaultgames",
+                "repo": "pokerogue",
+                "stars": 5819
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RetroArch-web",
+              "description": "游戏 网页版的复古游戏模拟器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 523713632,
+                "language": "JavaScript",
+                "last_commit": "2023-01-30T22:24:10Z",
+                "owner": "nenge123",
+                "repo": "retroarch-web",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RomM",
+              "description": "Rom管理器 一个漂亮的，强大的，自托管的rom管理器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611338935,
+                "language": "Python",
+                "last_commit": "2026-08-24T01:28:07Z",
+                "owner": "rommapp",
+                "repo": "romm",
+                "stars": 12224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue-idle-game",
+              "description": "游戏 一个放置的西幻点击游戏 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307320394,
+                "language": "Vue",
+                "last_commit": "2023-01-28T05:37:02Z",
+                "owner": "Couy69",
+                "repo": "vue-idle-game",
+                "stars": 1357
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "雾锁王国",
+              "description": "游戏 雾锁王国社区服务器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 744542930,
+                "language": "Shell",
+                "last_commit": "2026-01-19T03:58:37Z",
+                "owner": "jsknnr",
+                "repo": "enshrouded-server",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Codecombat",
+              "description": "游戏 扣哒世界，用游戏来学习编程 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15193430,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T06:53:50Z",
+                "owner": "codecombat",
+                "repo": "codecombat",
+                "stars": 8550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ratel",
+              "description": "游戏 可联网的命令行德州、都抵制游戏 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153278268,
+                "language": "Java",
+                "last_commit": "2026-01-17T13:33:07Z",
+                "owner": "ainilili",
+                "repo": "ratel",
+                "stars": 2205
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "游戏娱乐"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Acg-Faka",
+              "description": "建站 acg-faka是一款二次元风格的卡券管理平台 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432476753,
+                "language": "PHP",
+                "last_commit": "2026-08-24T05:14:30Z",
+                "owner": "lizhipay",
+                "repo": "acg-faka",
+                "stars": 5510
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bar-Assistant",
+              "description": "酒吧管理 包含鸡尾酒做法、库存管理 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545016751,
+                "language": "PHP",
+                "last_commit": "2026-08-23T17:52:32Z",
+                "owner": "karlomikus",
+                "repo": "bar-assistant",
+                "stars": 1080
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C-shopping",
+              "description": "商城 完整的在线商城系统，支持app、小程序等 项目地址 教程地址 app/小程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 722652996,
+                "language": "JavaScript",
+                "last_commit": "2025-04-25T09:27:42Z",
+                "owner": "huanghanzhilian",
+                "repo": "c-shopping",
+                "stars": 2421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dailycheckin",
+              "description": "签到 支持docker、青龙部署的多平台打卡、签到工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370873536,
+                "language": "Python",
+                "last_commit": "2026-07-09T08:56:15Z",
+                "owner": "Sitoi",
+                "repo": "dailycheckin",
+                "stars": 8691
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Douyin",
+              "description": "前端 完整度超高的抖音前端项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153048129,
+                "language": "Vue",
+                "last_commit": "2026-07-21T15:09:13Z",
+                "owner": "zyronon",
+                "repo": "douyin",
+                "stars": 11532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DouyinLiveRecorder",
+              "description": "下载工具 支持15+直播平台的自动录制工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 667354736,
+                "language": "Python",
+                "last_commit": "2026-04-01T14:45:17Z",
+                "owner": "ihmily",
+                "repo": "DouyinLiveRecorder",
+                "stars": 10768
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iMaotai",
+              "description": "签到 自动预约i茅台 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 663458108,
+                "language": "Java",
+                "last_commit": "2025-04-16T09:09:43Z",
+                "owner": "oddfar",
+                "repo": "campus-imaotai",
+                "stars": 4146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Novel-Plus",
+              "description": "建站 小说网站建站系统 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260634414,
+                "language": "Java",
+                "last_commit": "2026-06-01T08:27:33Z",
+                "owner": "201206030",
+                "repo": "novel-plus",
+                "stars": 4708
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pterodactyl",
+              "description": "建站 服务器开服与管理工具，支持近120款游戏一键开服 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47508644,
+                "language": "PHP",
+                "last_commit": "2026-08-14T20:17:23Z",
+                "owner": "pterodactyl",
+                "repo": "panel",
+                "stars": 9174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QD",
+              "description": "签到 支持100+网页系统的自动签到、自动打卡工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262975445,
+                "language": "Python",
+                "last_commit": "2026-07-06T00:20:38Z",
+                "owner": "qd-today",
+                "repo": "qd",
+                "stars": 5571
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "独角数卡",
+              "description": "商城 一款自动发卡、售卡的在线商城项目 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 129852395,
+                "language": "PHP",
+                "last_commit": "2026-03-12T12:38:08Z",
+                "owner": "assimon",
+                "repo": "dujiaoka",
+                "stars": 12145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "魔豆文库",
+              "description": "建站 开源版百度文库系统，支持知识付费 项目地址 教程地址 pro收费",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 548797788,
+                "language": "Go",
+                "last_commit": "2026-03-19T08:46:34Z",
+                "owner": "mnt-ltd",
+                "repo": "moredoc",
+                "stars": 559
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quark--Save",
+              "description": "签到 夸克自动签到工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735799919,
+                "language": "Python",
+                "last_commit": "2026-07-09T11:44:49Z",
+                "owner": "Cp0204",
+                "repo": "quark-auto-save",
+                "stars": 3007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "instock",
+              "description": "炒股 InStock股票系统，抓取每日股票、ETF关键数据等，是量化投资的好帮手 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616738094,
+                "language": "Python",
+                "last_commit": "2026-04-02T02:26:35Z",
+                "owner": "myhhub",
+                "repo": "stock",
+                "stars": 14121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SyncTV",
+              "description": "建站 一款在线视频播放平台，同步观看、影院、直播、视频 项目地址 教程地址 ⭐New！",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 700183290,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:55:18Z",
+                "owner": "synctv-org",
+                "repo": "synctv",
+                "stars": 2474
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "赚钱项目"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ArchiveB",
+              "description": "工具 互联网存档工具，用于保存互联网页面 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90356372,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:57:58Z",
+                "owner": "ArchiveBox",
+                "repo": "ArchiveBox",
+                "stars": 28165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Genact",
+              "description": "工具 假装你一直在敲代码的网页版docker 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1345495,
+                "language": "Rust",
+                "last_commit": "2026-08-01T14:37:51Z",
+                "owner": "svenstaro",
+                "repo": "genact",
+                "stars": 12177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "It-tools",
+              "description": "工具 在线IT工具箱 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253222599,
+                "language": "Vue",
+                "last_commit": "2026-08-16T11:35:00Z",
+                "owner": "CorentinTh",
+                "repo": "it-tools",
+                "stars": 40338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stirling-PDF",
+              "description": "工具 在线PDF转换与管理 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594155488,
+                "language": "Java",
+                "last_commit": "2026-08-24T13:38:58Z",
+                "owner": "Stirling-Tools",
+                "repo": "Stirling-PDF",
+                "stars": 90302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Iyuuplus-dev",
+              "description": "PT 用于PT种子转种、辅种 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786784288,
+                "language": "JavaScript",
+                "last_commit": "2026-07-09T08:56:09Z",
+                "owner": "ledccn",
+                "repo": "iyuuplus-dev",
+                "stars": 888
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "N.eko",
+              "description": "浏览器 基于webRTC的嵌套浏览器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345484146,
+                "language": "Go",
+                "last_commit": "2026-04-25T13:19:08Z",
+                "owner": "m1k1o",
+                "repo": "neko-rooms",
+                "stars": 756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Photopea",
+              "description": "绘图 在线PS 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630701916,
+                "language": null,
+                "last_commit": "2024-11-27T20:58:38Z",
+                "owner": "DUOLabs333",
+                "repo": "Photopea-Offline",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RustDesk",
+              "description": "远程 自托管的远程控制工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299354207,
+                "language": "Rust",
+                "last_commit": "2026-08-24T11:11:30Z",
+                "owner": "rustdesk",
+                "repo": "rustdesk",
+                "stars": 121679
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SshWifty",
+              "description": "远程 一款浏览器的webssh工具，支持SSH和Telnet服务 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200967040,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T18:43:21Z",
+                "owner": "nirui",
+                "repo": "sshwifty",
+                "stars": 3115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudbak",
+              "description": "备份 备份微信聊天记录到浏览器 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 885215138,
+                "language": null,
+                "last_commit": "2025-10-24T09:02:14Z",
+                "owner": "likeflyme",
+                "repo": "cloudbak",
+                "stars": 1315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Morphos",
+              "description": "工具 照片、文档、电子书的在线格式转换工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 701961515,
+                "language": "Go",
+                "last_commit": "2024-11-16T05:27:59Z",
+                "owner": "danvergara",
+                "repo": "morphos",
+                "stars": 1300
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VaultWarden",
+              "description": "工具 跨平台的2FA、密码管理工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121898717,
+                "language": "Rust",
+                "last_commit": "2026-08-22T12:09:35Z",
+                "owner": "dani-garcia",
+                "repo": "vaultwarden",
+                "stars": 66051
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "其它工具"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Slash",
+              "description": "短连接 网址短链接工具，包含了书签管理与连接分享功能 项目地址 教程地址 浏览器扩展",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 546421604,
+                "language": "JavaScript",
+                "last_commit": "2025-12-18T08:31:16Z",
+                "owner": "toss",
+                "repo": "slash",
+                "stars": 2963
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yourls",
+              "description": "短连接 网站短链接生成 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5508585,
+                "language": "PHP",
+                "last_commit": "2026-08-24T13:54:15Z",
+                "owner": "YOURLS",
+                "repo": "YOURLS",
+                "stars": 12172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NginxWebui",
+              "description": "网络 基于Nginx开发的可视化配置工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264408495,
+                "language": "HTML",
+                "last_commit": "2026-07-05T07:28:02Z",
+                "owner": "cym1102",
+                "repo": "nginxWebUI",
+                "stars": 2624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Umami",
+              "description": "网络 个人博客网站流量分析工具，支持流量分析到页到ip 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280363952,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T18:26:22Z",
+                "owner": "umami-software",
+                "repo": "umami",
+                "stars": 38342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Upsnap",
+              "description": "网络 一款局域网唤醒 Web 应用程序 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313250436,
+                "language": "Go",
+                "last_commit": "2026-07-26T10:20:40Z",
+                "owner": "seriousm4x",
+                "repo": "UpSnap",
+                "stars": 6214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tailscale",
+              "description": "网络 异地组网工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237523442,
+                "language": "Go",
+                "last_commit": "2026-08-24T10:08:08Z",
+                "owner": "tailscale",
+                "repo": "tailscale",
+                "stars": 35502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zerotier",
+              "description": "网络 异地组网工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9647856,
+                "language": "C++",
+                "last_commit": "2026-08-03T17:28:38Z",
+                "owner": "zerotier",
+                "repo": "ZeroTierOne",
+                "stars": 17038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WatchYourLan",
+              "description": "网络 一款局域网IP查找工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 524859634,
+                "language": "Go",
+                "last_commit": "2025-09-10T12:08:09Z",
+                "owner": "aceberg",
+                "repo": "WatchYourLAN",
+                "stars": 7543
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WatchYourPorts",
+              "description": "网络 一款局域网端口查找工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814250087,
+                "language": "Go",
+                "last_commit": "2025-09-19T08:27:57Z",
+                "owner": "aceberg",
+                "repo": "WatchYourPorts",
+                "stars": 207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lucky",
+              "description": "网络 一款多用途的网络管理和反代工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513701178,
+                "language": "Go",
+                "last_commit": "2026-02-15T09:13:32Z",
+                "owner": "gdy666",
+                "repo": "lucky",
+                "stars": 8078
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Frp-Panel",
+              "description": "网络 frp集中管理平台，支持部署frpc\\frps节点 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739684851,
+                "language": "TypeScript",
+                "last_commit": "2026-04-19T06:12:57Z",
+                "owner": "VaalaCat",
+                "repo": "frp-panel",
+                "stars": 1813
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Certimate",
+              "description": "SSL 一款SSL证书自动续签工具 项目地址 教程地址",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1006320584,
+                "language": null,
+                "last_commit": "2025-06-22T02:34:20Z",
+                "owner": "usual2970",
+                "repo": "certimate",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "网络工具"
+        }
+      ],
+      "title": "项目介绍教程、地址列表"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:55:47.347Z",
+    "last_updated": "2026-08-24T13:59:52.163Z",
     "original_repository": "coracoo/awesome_docker_cn",
     "original_repository_id": 787288022,
     "original_repository_sha": "9b18043cda92ca73bbdcb1b52cb9a5743c5a36f5",
